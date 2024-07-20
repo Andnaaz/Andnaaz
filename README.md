@@ -26,7 +26,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m Fianl Year Student , with a keen interest in Software Devlopment.
 
-- :seedling: Exploring Emeginf Technology Like AI , ML & DL.
+- :seedling: Exploring Emerging Technology Like AI , ML & DL.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
